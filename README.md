@@ -33,3 +33,8 @@ Bu proje MIT lisansı ile lisanslanmıştır, ancak aşağıdaki özel kurallar 
 Bu botu kullanarak yukarıdaki şartları kabul etmiş sayılırsınız.
 
 ------------------------------------
+İletişim
+
+[![Discord](https://img.shields.io/badge/Discord-rexanewashere-5865F2?logo=discord&logoColor=white)](https://discord.com/)
+
+------------------------------------
